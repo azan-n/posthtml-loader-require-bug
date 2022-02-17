@@ -1,0 +1,29 @@
+{
+  "name": "posthtml-loader-require-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azan-n/posthtml-loader-require-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azan-n/posthtml-loader-require-bug/issues"
+  },
+  "homepage": "https://github.com/azan-n/posthtml-loader-require-bug#readme",
+  "devDependencies": {
+    "html-loader": "^3.1.0",
+    "html-webpack-plugin": "^5.5.0",
+    "posthtml": "^0.15.2",
+    "posthtml-highlight": "^3.0.0",
+    "posthtml-loader": "^2.0.1",
+    "webpack": "^5.69.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
