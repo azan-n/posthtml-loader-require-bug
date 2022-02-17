@@ -1,0 +1,1 @@
+# posthtml-loader-require-bug
